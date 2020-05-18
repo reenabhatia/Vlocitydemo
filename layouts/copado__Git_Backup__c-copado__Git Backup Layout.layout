@@ -19,6 +19,10 @@
                 <behavior>Required</behavior>
                 <field>copado__Org__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>copado__Git_Snapshot_Permissions__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
