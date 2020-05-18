@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>reena.bhatia@ibm.com</contactEmail>
+    <label>Copado DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIC5jCCAc4CCQDHIKQ36Lq+7jANBgkqhkiG9w0BAQsFADA0MQswCQYDVQQGEwJVUzEPMA0GA1UECgwGQ29wYWRvMRQwEgYDVQQDDAt3d3cuY29wYS5kbzAgFw0yMDA1MTgxNjM5MjRaGA8yMTI5MTEyMzE2MzkyNFowNDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBkNvcGFkbzEUMBIGA1UEAwwLd3d3LmNvcGEuZG8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDIG2qq3n7buY84n/I0bMCNyBtpnR3aCtGqtWdjZUMo9tGHy5i4wN8Hc8eJ2MkEs5nUUEdjClVCA2Yf1pXA79cFIJ/HBP/BCOSLtPzX7z0fOZkZalZaeQoPh2vLPLngFgMy8NhIzpXGAwI2RCGOTowMoBDvOgDd+40ELCwtneIT4Ut2GlQHrf0xitoBSJ43u8ENd8gVU6sbkc+GsrNSi8e03r830nELhL5WtHNcY29amLkGVxzioWEH6SPwnlhb2ZQ/2k8VU+Xo7h+78aGf96VMSlbCtfPFvvdXQLa41hJo2z9jS8PocfnC0UvZmPiRczm1d9GwKyuNUf8JscWNN0JbAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAKY+V0Nv6rTuOcamF1oQIdBS1sJffhk8tNw/YBUVleRJpoIATk0ZnnLwjKbnBYG1M985jGp0YZNUCfjxhgy8DPNQ9SCqFInw2f6UQL+72EDrKdcSnfcunkn/q0Bi5y86BUbyDv7DkB0Gf24hQcRtYHl+IatgHLvs9UewMxNj7gpcFdo5vbisXRGWiV40OQFY8U37S6pnbJ7L2xW55PU5kvKc6aMMK60idGhIZkjZWsHR8QNFlmxdU6ylCupNTkDOmH4QuZb2J97xtg5EZ2rb9xi4PAHMFsI5cjiVBuIvmYZJzDiFeRu30edyV+gFd57BrsEEq3RJDGmmVEH2dobNSCM=</certificate>
+        <consumerKey>7ba48804a6564564b57c158015b32831ea985565b5f2494090f746f7ffd49ccb</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
